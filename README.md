@@ -2,7 +2,7 @@
 This is a personal digital business card and a portfolio site.
 
 ## Live Demo
-Check out the live site here: [view my portfolio](https://graceadegboye20-hue.github.io/My-first-project--site/)
+Check out the live site here: [view my portfolio](https://graceadegboye20-hue.github.io/My-first-Project--site/)
 
 ## Built with
 - HTML5
